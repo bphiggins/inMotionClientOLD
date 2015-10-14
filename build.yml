@@ -8,7 +8,7 @@ applog: "rholog.txt"
 iphone:
   configuration: "Release"
   sdk: "iphoneos8.0"
-  provisionprofile: "d47952ba84c3f921177bd5d5355e79496eee6ccf"
+  provisionprofile: "D47952BA84C3F921177BD5D5355E79496EEE6CCF"
   codesignidentity: "Brendan Higgins"
   entitlements: ""
   BundleIdentifier: "com.rhomobile.inmotionclient"
