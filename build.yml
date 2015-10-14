@@ -7,7 +7,7 @@ bbver: "6.0"
 applog: "rholog.txt"
 iphone:
   configuration: "Debug"
-  sdk: "iphoneos8.0"
+  sdk: "iphoneos8.1"
   provisionprofile: "D47952BA84C3F921177BD5D5355E79496EEE6CCF"
   codesignidentity: "Brendan Higgins"
   entitlements: ""
