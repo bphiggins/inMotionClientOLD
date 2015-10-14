@@ -9,7 +9,7 @@ iphone:
   configuration: "Debug"
   sdk: "iphoneos8.1"
   provisionprofile: "D47952BA84C3F921177BD5D5355E79496EEE6CCF"
-  codesignidentity: "iPhone Developer: Brendan Higgins (QRG4JG2948)"
+  codesignidentity: " iPhone Distribution: Universal Hospital Services"
   entitlements: ""
   BundleIdentifier: "com.rhomobile.inmotionclient"
   BundleURLScheme: "inmotionclient"
